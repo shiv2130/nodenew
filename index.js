@@ -1,2 +1,2 @@
-console.log("hello World")
-console.log("Hi guys I am SHivanshu ")
+const shivanshu = require("./second");
+console.log(shivanshu)
